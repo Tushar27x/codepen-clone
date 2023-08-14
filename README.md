@@ -3,6 +3,8 @@ In this project I made the clone of a popular online code editor codepen.
 
 You can write HTML, CSS and Javascript code and reder it in real time to test you website components or to just practice you skills.
 
+[View live demo here](https://tushar27x-codepen-clone.netlify.app/ )
+
 ## Packages used
 1. React.js for the basic layout and structure of the application.
 2. Monaco-editor for creating code spaces to write HTML, CSS and Javascript code.
