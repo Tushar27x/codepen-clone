@@ -22,7 +22,7 @@ const Result = () => {
             srcDoc={src}
             width="100%"
             title='output'
-            sandbox='allow-sripts'
+            sandbox='allow-scripts'
             height="100%"
         />
     </div>
