@@ -1,4 +1,4 @@
-## Codepen-clone
+## Online code editor
 
 
 You can write HTML, CSS and Javascript code and reder it in real time to test you website components or to just practice you skills.
